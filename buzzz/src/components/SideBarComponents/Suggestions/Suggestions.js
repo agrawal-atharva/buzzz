@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import SearchIcon from '@mui/icons-material/Search';
 import classes from '../Contacts/Contacts.module.css';
 import { suggestedUsers } from '../../../redux/actions/userActions/suggestionUserAction';
-import profileLogo from '/home/atharva/Buzzz/client/buzzz/src/aeecc22a67dac7987a80ac0724658493.jpg';
+import profileLogo from '/home/atharva/buzzz/buzzz/src/aeecc22a67dac7987a80ac0724658493.jpg';
 import { userProfile } from '../../../redux/actions/userActions/userProfile';
 
 const Suggestions = () => {

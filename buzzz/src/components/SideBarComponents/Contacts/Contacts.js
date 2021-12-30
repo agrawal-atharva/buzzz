@@ -1,7 +1,7 @@
 import React from 'react';
 import SearchIcon from '@mui/icons-material/Search';
 import classes from './Contacts.module.css';
-import profileLogo from '/home/atharva/Buzzz/client/buzzz/src/aeecc22a67dac7987a80ac0724658493.jpg';
+import profileLogo from '/home/atharva/buzzz/buzzz/src/aeecc22a67dac7987a80ac0724658493.jpg';
 
 const Contacts = (props) => {
 	return (

@@ -2,8 +2,8 @@ import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { currentUser } from '../../redux/actions/userActions/currentUserAction.js.js';
 import classes from './ProfileInfo.module.css';
-import coverPhoto from '/home/atharva/Buzzz/client/buzzz/src/Natural-Facebook-Cover-Photo.jpg';
-import profileLogo from '/home/atharva/Buzzz/client/buzzz/src/aeecc22a67dac7987a80ac0724658493.jpg';
+import coverPhoto from '/home/atharva/buzzz/buzzz/src/Natural-Facebook-Cover-Photo.jpg';
+import profileLogo from '/home/atharva/buzzz/buzzz/src/aeecc22a67dac7987a80ac0724658493.jpg';
 
 function ProfileInfo() {
 	const current_user = useSelector((state) => state.currentUser.currentUser);

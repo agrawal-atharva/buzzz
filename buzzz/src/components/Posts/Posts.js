@@ -6,8 +6,8 @@ import ThumbUpIcon from '@mui/icons-material/ThumbUp';
 import ThumbDownIcon from '@mui/icons-material/ThumbDown';
 import CommentIcon from '@mui/icons-material/Comment';
 import PendingIcon from '@mui/icons-material/Pending';
-import postImg from '/home/atharva/Buzzz/client/buzzz/src/post.jpg';
-import profileLogo from '/home/atharva/Buzzz/client/buzzz/src/aeecc22a67dac7987a80ac0724658493.jpg';
+import postImg from '/home/atharva/buzzz/buzzz/src/post.jpg';
+import profileLogo from '/home/atharva/buzzz/buzzz/src/aeecc22a67dac7987a80ac0724658493.jpg';
 
 function Posts(props) {
 	return (
